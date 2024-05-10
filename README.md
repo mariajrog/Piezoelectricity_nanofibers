@@ -8,4 +8,4 @@ The code "oscilloscope_matlab" connects Matlab to the Tektronix oscilloscope and
 
 The code "analysis_voltages" takes the data stored in the previous code and calculates the average of the peak-to-peak voltage and the mean load applied. It also generates a linear regression for all the data points taken and compare the performance of the 3 nanofibers membranes.
 
-The "gauge" code measure the loads gotten from the strain gauge and print them in the Arduino Serial prompt. 
+The "gauge" code measures the loads gotten from the strain gauge and prints them in the Arduino Serial prompt. 
